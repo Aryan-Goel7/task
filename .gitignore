@@ -2,7 +2,7 @@ venv/
 ApolloScraper.py
 chromedriver
 log.txt
-notFound.*
+notFound2.*
 sample.*
 .ipynb_checkpoints
 web2.ipynb
