@@ -1,0 +1,8 @@
+venv/
+ApolloScraper.py
+chromedriver
+log.txt
+notFound.*
+sample.*
+.ipynb_checkpoints
+web2.ipynb
